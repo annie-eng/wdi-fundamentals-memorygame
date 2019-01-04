@@ -61,3 +61,7 @@ main{
 img{
     margin: 40px 8px 40px 8px;
 }
+
+img:hover{
+    width: 22%;
+}
